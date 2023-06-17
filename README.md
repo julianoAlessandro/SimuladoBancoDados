@@ -9,7 +9,6 @@ Sequencia dá a ordem relativa dos trechos começando em um para cada estrada.<b
 questão. Por exemplo: A SP 340 (estrada) passa pela Localidade “Recanto do Sol Nascente” e esta fica na localidade
 “Mogi Mirim”. UF: tabela com as unidades da federação.<br>
 <b>Construtora:</b> Nome das construtoras que construíram os trechos das rodovias.<br>
-<hr>
 <h3>ENUNCIADO DAS QUESTOES 🧾</h3>
 2 – Faça uma Subconsulta que mostre o nome da construtora e a quantidade total de estradas que cada empresa
 construiu. Mostre ordenado, do maior para menor, pela total construído (soma do comprimento).<br><br>
